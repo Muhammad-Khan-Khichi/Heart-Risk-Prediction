@@ -7,10 +7,9 @@ An interactive **Machine Learning web app** built with **Streamlit** that predic
 
 ## 🌐 Live Demo
 
-* 👉 Try the app here:
-``` bash
+👉 Try the app here:
 https://heart-risk-prediction-mk.streamlit.app/
-```
+
 
 ## 🚀 Overview
 
