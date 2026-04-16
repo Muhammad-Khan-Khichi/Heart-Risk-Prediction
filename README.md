@@ -51,7 +51,7 @@ The app provides a simple and user-friendly interface for entering patient detai
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/Muhammad-Khan-Khichi/Heart-Risk-Prediction).git
+git clone https://github.com/Muhammad-Khan-Khichi/Heart-Risk-Prediction.git
 cd heart-disease-predictor
 ```
 
