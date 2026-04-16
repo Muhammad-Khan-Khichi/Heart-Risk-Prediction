@@ -5,6 +5,13 @@ An interactive **Machine Learning web app** built with **Streamlit** that predic
 
 ---
 
+## 🌐 Live Demo
+
+* 👉 Try the app here:
+``` bash
+https://heart-risk-prediction-mk.streamlit.app/
+```
+
 ## 🚀 Overview
 
 This project uses a trained **Support Vector Machine (SVM)** model to analyze key medical features and estimate whether a patient is at **high or low risk of heart disease**.
