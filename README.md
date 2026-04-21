@@ -1,4 +1,3 @@
-﻿# Heart-Risk-Prediction
 # ❤️ Heart Disease Prediction App
 
 An interactive **Machine Learning web app** built with **Streamlit** that predicts the risk of heart disease based on patient health data.
